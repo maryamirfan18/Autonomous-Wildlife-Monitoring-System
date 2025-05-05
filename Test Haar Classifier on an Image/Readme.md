@@ -17,7 +17,8 @@ This project demonstrates how to detect elephants in an image using a Haar casca
 ## Setup
 
 1. **Upload Files**:
-   - Upload your `cascade.xml` and sample image (e.g., `pexels-photo-4577141.jpeg`) to your Google Drive inside `/MyDrive/Colab Notebooks/`.
+   - Upload your `cascade.xml` and sample image (e.g., `elephant.png`) to your Google Drive.
+   - mount your drive
 
 2. **Install Dependencies**:
    - Make sure OpenCV is installed. If using Colab, it's pre-installed.
