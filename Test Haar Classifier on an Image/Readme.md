@@ -11,7 +11,7 @@ This demonstrates how to detect elephants in an image using a Haar cascade class
 ## Files
 
 - `cascade.xml` — Pre-trained Haar cascade classifier for elephant detection.
-- `pexels-photo-4577141.jpeg` — Sample image for testing.
+- `elephant.png` — Sample image for testing.
 - `elephant_detection.ipynb` — Colab notebook containing the detection code.
 
 ## Setup
