@@ -27,6 +27,3 @@ This project demonstrates how to detect animals and objects in a video using YOL
 - Detection thresholds (confidence and IoU) can be adjusted.
 - Uses OpenCV for drawing and saving the video, and Google Colab display functions for output.
 
-## License
-
-This project is for educational purposes.
