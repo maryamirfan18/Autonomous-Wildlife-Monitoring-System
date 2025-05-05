@@ -50,5 +50,3 @@ Object Detection: Detects and tracks animals in images and video using YOLOv5 an
 
 
 
-
-ChatGPT can make mistakes. Check important info
