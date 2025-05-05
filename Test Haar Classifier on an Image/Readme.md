@@ -1,6 +1,6 @@
 # Elephant Detection using Haar Cascade Classifier
 
-This project demonstrates how to detect elephants in an image using a Haar cascade classifier trained specifically for elephants.
+This demonstrates how to detect elephants in an image using a Haar cascade classifier trained specifically for elephants.
 
 ## Requirements
 
