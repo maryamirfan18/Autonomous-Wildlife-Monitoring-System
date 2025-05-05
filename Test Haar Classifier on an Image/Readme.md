@@ -12,7 +12,7 @@ This demonstrates how to detect elephants in an image using a Haar cascade class
 
 - `cascade.xml` — Pre-trained Haar cascade classifier for elephant detection.
 - `elephant.png` — Sample image for testing.
-- 
+  
 ## Setup
 
 1. **Upload Files**:
