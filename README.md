@@ -1,6 +1,9 @@
 # -Autonomous-Wildlife-Monitoring-System-
 
 ---
+
+An AI-powered system for real-time wildlife detection, sound classification, and movement tracking using computer vision (YOLOv5/YOLOv8), audio analysis, and graph-based path modeling. Designed for non-intrusive monitoring in wildlife reserves, safari parks, and zoos.
+
 ## Problem Statement 
 In today's conservation efforts, monitoring wildlife behavior and population 
 dynamics is crucial for understanding ecosystems and ensuring species 
@@ -18,44 +21,34 @@ detection, sound analysis, and graph-based movement tracking, the system
 aims to provide accurate and comprehensive insights into animal behaviors. 
 
 
-## 🧠 Techniques and Tools Used
+## 🔍 Features <br>
+Object Detection: Detects and tracks animals in images and video using YOLOv5 and YOLOv8.<br>
 
-### ✅ Preprocessing
-- Handling missing values
-- Encoding categorical data
-- Normalizing numerical features
+🔊 Sound Analysis: Classifies animal sounds using audio preprocessing and feature extraction.<br>
 
-### 📊 Clustering
-- **K-Means Algorithm**
-  - Elbow method used to determine optimal number of clusters
-  - Visualized using 2D cluster plots
+📊 Graph-Based Movement Tracking: Visualizes animal movement paths using Breadth-First Search (BFS) in a graph.<br>
 
-### 🔎 Classification
-- **Decision Tree Classifier**
-- **Naive Bayes**
-  - Trained on labeled customer data
-  - Evaluated using accuracy and confusion matrix
+💾 Video Annotation Output: Saves annotated video showing animal movement.<br>
 
-### 📈 Evaluation
-- Accuracy Score
-- Confusion Matrix
-- Visual comparison of true vs predicted labels
+📊 Scalable for Continuous Monitoring: Designed to run autonomously for long-term wildlife studies.<br>
 
----
 
-## 📸 Results and Insights
+🚀 Getting Started
 
-- Clustering reveals distinct customer segments with meaningful characteristics
-- Decision Tree and Naive Bayes classifiers achieve promising accuracy
-- Visual results such as confusion matrix and cluster plots support interpretability
 
-*(Insert graphs or sample result screenshots in the results folder and reference them here)*
 
----
 
-## 🛠 How to Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/AI_CCP.git
-   cd AI_CCP
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT can make mistakes. Check important info
